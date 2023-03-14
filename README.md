@@ -1,0 +1,1 @@
+# Parcial_1-Mineria_de_datos-BD
